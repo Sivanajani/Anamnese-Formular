@@ -88,7 +88,6 @@ export_to_csv(data, file)
 - OCR Accuracy depends on scan quality and font.
 - Checkbox Detection may fail with very small or unclear boxes.
 - At the moment only supports PDF and JPG inputs.
-- 
 ---
 
 ## 📄 License
